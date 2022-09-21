@@ -1,0 +1,12 @@
+{
+    "data": {
+        "color_before": "grey", 
+        "correct_flags": 0, 
+        "flags_displayed": 0, 
+        "highest_streak": 0, 
+        "first_time_user": true
+    }, 
+    "settings": {
+        "choices": 4
+    }
+}
